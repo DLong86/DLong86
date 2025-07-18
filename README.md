@@ -1,6 +1,7 @@
 # 👋 Alright? I'm Dave (DLong86),
 
-🌱 I've been coding for a few years, and I'm passionate about using and improving my skills in React JS, JavaScript, Node.js, Express, and CSS. I'm constantly striving to expand my knowledge and currently, I'm focused on learning MongoDB, Python, and React Native.
+🌱 I've been coding for a few years, and I enjoy being able to use technology to build things that were once just ideas. 
+I'm passionate about using and improving my skills in React JS, JavaScript, Node.js, Express, and CSS. I'm constantly striving to expand my knowledge, and currently, I'm focused on learning MongoDB, Python, and React Native.
 
 # Interests
 When I'm not coding, you can find me engaged in various activities:
